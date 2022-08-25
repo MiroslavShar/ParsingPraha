@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "ruian_code": "19",
+    "edge": "Hlavní město Praha",
+    "country": 1,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 2,
+    "ruian_code": "116",
+    "edge": "Jihomoravský kraj",
+    "country": 1,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 5,
+    "ruian_code": "108",
+    "edge": "Kraj Vysočina",
+    "country": 1,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 3,
+    "ruian_code": "35",
+    "edge": "Jihočeský kraj",
+    "country": 1,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 6,
+    "ruian_code": "86",
+    "edge": "Královéhradecký kraj",
+    "country": 1,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 9,
+    "ruian_code": "124",
+    "edge": "Olomoucký kraj",
+    "country": 1,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 4,
+    "ruian_code": "51",
+    "edge": "Karlovarský kraj",
+    "country": 1,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 7,
+    "ruian_code": "78",
+    "edge": "Liberecký kraj",
+    "country": 1,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 10,
+    "ruian_code": "94",
+    "edge": "Pardubický kraj",
+    "country": 1,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 13,
+    "ruian_code": "141",
+    "edge": "Zlínský kraj",
+    "country": 1,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 8,
+    "ruian_code": "132",
+    "edge": "Moravskoslezský kraj",
+    "country": 1,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 11,
+    "ruian_code": "43",
+    "edge": "Plzeňský kraj",
+    "country": 1,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 14,
+    "ruian_code": "60",
+    "edge": "Ústecký kraj",
+    "country": 1,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 12,
+    "ruian_code": "27",
+    "edge": "Středočeský kraj",
+    "country": 1,
+    "lat": null,
+    "lon": null,
+    "point": null
+  }
+]

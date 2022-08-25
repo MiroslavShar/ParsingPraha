@@ -1,0 +1,704 @@
+[
+  {
+    "id": 1,
+    "ruian_code": "3201",
+    "district": "Benešov",
+    "edge_id": 12,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 2,
+    "ruian_code": "3202",
+    "district": "Beroun",
+    "edge_id": 12,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 3,
+    "ruian_code": "3701",
+    "district": "Blansko",
+    "edge_id": 2,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 4,
+    "ruian_code": "3702",
+    "district": "Brno-město",
+    "edge_id": 2,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 5,
+    "ruian_code": "3703",
+    "district": "Brno-venkov",
+    "edge_id": 2,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 6,
+    "ruian_code": "3801",
+    "district": "Bruntál",
+    "edge_id": 8,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 7,
+    "ruian_code": "3704",
+    "district": "Břeclav",
+    "edge_id": 2,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 8,
+    "ruian_code": "3402",
+    "district": "Cheb",
+    "edge_id": 4,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 9,
+    "ruian_code": "3503",
+    "district": "Chomutov",
+    "edge_id": 14,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 10,
+    "ruian_code": "3603",
+    "district": "Chrudim",
+    "edge_id": 10,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 11,
+    "ruian_code": "3401",
+    "district": "Domažlice",
+    "edge_id": 11,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 12,
+    "ruian_code": "3502",
+    "district": "Děčín",
+    "edge_id": 14,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 13,
+    "ruian_code": "3802",
+    "district": "Frýdek-Místek",
+    "edge_id": 8,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 14,
+    "ruian_code": "3601",
+    "district": "Havlíčkův Brod",
+    "edge_id": 5,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 15,
+    "ruian_code": "3706",
+    "district": "Hodonín",
+    "edge_id": 2,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 16,
+    "ruian_code": "3602",
+    "district": "Hradec Králové",
+    "edge_id": 6,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 17,
+    "ruian_code": "3504",
+    "district": "Jablonec nad Nisou",
+    "edge_id": 7,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 18,
+    "ruian_code": "3811",
+    "district": "Jeseník",
+    "edge_id": 9,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 19,
+    "ruian_code": "3707",
+    "district": "Jihlava",
+    "edge_id": 5,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 20,
+    "ruian_code": "3303",
+    "district": "Jindřichův Hradec",
+    "edge_id": 3,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 21,
+    "ruian_code": "3604",
+    "district": "Jičín",
+    "edge_id": 6,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 22,
+    "ruian_code": "3403",
+    "district": "Karlovy Vary",
+    "edge_id": 4,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 23,
+    "ruian_code": "3803",
+    "district": "Karviná",
+    "edge_id": 8,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 24,
+    "ruian_code": "3203",
+    "district": "Kladno",
+    "edge_id": 12,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 25,
+    "ruian_code": "3404",
+    "district": "Klatovy",
+    "edge_id": 11,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 26,
+    "ruian_code": "3204",
+    "district": "Kolín",
+    "edge_id": 12,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 27,
+    "ruian_code": "3708",
+    "district": "Kroměříž",
+    "edge_id": 13,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 28,
+    "ruian_code": "3205",
+    "district": "Kutná Hora",
+    "edge_id": 12,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 29,
+    "ruian_code": "3505",
+    "district": "Liberec",
+    "edge_id": 7,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 30,
+    "ruian_code": "3506",
+    "district": "Litoměřice",
+    "edge_id": 14,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 31,
+    "ruian_code": "3507",
+    "district": "Louny",
+    "edge_id": 14,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 32,
+    "ruian_code": "3207",
+    "district": "Mladá Boleslav",
+    "edge_id": 12,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 33,
+    "ruian_code": "3508",
+    "district": "Most",
+    "edge_id": 14,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 34,
+    "ruian_code": "3206",
+    "district": "Mělník",
+    "edge_id": 12,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 35,
+    "ruian_code": "3804",
+    "district": "Nový Jičín",
+    "edge_id": 8,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 36,
+    "ruian_code": "3208",
+    "district": "Nymburk",
+    "edge_id": 12,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 37,
+    "ruian_code": "3605",
+    "district": "Náchod",
+    "edge_id": 6,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 38,
+    "ruian_code": "3805",
+    "district": "Olomouc",
+    "edge_id": 9,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 39,
+    "ruian_code": "3806",
+    "district": "Opava",
+    "edge_id": 8,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 40,
+    "ruian_code": "3807",
+    "district": "Ostrava-město",
+    "edge_id": 8,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 41,
+    "ruian_code": "3606",
+    "district": "Pardubice",
+    "edge_id": 10,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 42,
+    "ruian_code": "3304",
+    "district": "Pelhřimov",
+    "edge_id": 5,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 43,
+    "ruian_code": "3406",
+    "district": "Plzeň-jih",
+    "edge_id": 11,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 44,
+    "ruian_code": "3405",
+    "district": "Plzeň-město",
+    "edge_id": 11,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 45,
+    "ruian_code": "3407",
+    "district": "Plzeň-sever",
+    "edge_id": 11,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 46,
+    "ruian_code": "3306",
+    "district": "Prachatice",
+    "edge_id": 3,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 47,
+    "ruian_code": "3209",
+    "district": "Praha-východ",
+    "edge_id": 12,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 48,
+    "ruian_code": "3210",
+    "district": "Praha-západ",
+    "edge_id": 12,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 49,
+    "ruian_code": "3709",
+    "district": "Prostějov",
+    "edge_id": 9,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 50,
+    "ruian_code": "3305",
+    "district": "Písek",
+    "edge_id": 3,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 51,
+    "ruian_code": "3808",
+    "district": "Přerov",
+    "edge_id": 9,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 52,
+    "ruian_code": "3211",
+    "district": "Příbram",
+    "edge_id": 12,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 53,
+    "ruian_code": "3212",
+    "district": "Rakovník",
+    "edge_id": 12,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 54,
+    "ruian_code": "3408",
+    "district": "Rokycany",
+    "edge_id": 11,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 55,
+    "ruian_code": "3607",
+    "district": "Rychnov nad Kněžnou",
+    "edge_id": 6,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 56,
+    "ruian_code": "3608",
+    "district": "Semily",
+    "edge_id": 7,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 57,
+    "ruian_code": "3409",
+    "district": "Sokolov",
+    "edge_id": 4,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 58,
+    "ruian_code": "3307",
+    "district": "Strakonice",
+    "edge_id": 3,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 59,
+    "ruian_code": "3609",
+    "district": "Svitavy",
+    "edge_id": 10,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 60,
+    "ruian_code": "3410",
+    "district": "Tachov",
+    "edge_id": 11,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 61,
+    "ruian_code": "3509",
+    "district": "Teplice",
+    "edge_id": 14,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 62,
+    "ruian_code": "3610",
+    "district": "Trutnov",
+    "edge_id": 6,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 63,
+    "ruian_code": "3308",
+    "district": "Tábor",
+    "edge_id": 3,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 64,
+    "ruian_code": "3710",
+    "district": "Třebíč",
+    "edge_id": 5,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 65,
+    "ruian_code": "3711",
+    "district": "Uherské Hradiště",
+    "edge_id": 13,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 66,
+    "ruian_code": "3810",
+    "district": "Vsetín",
+    "edge_id": 13,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 67,
+    "ruian_code": "3712",
+    "district": "Vyškov",
+    "edge_id": 2,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 68,
+    "ruian_code": "3705",
+    "district": "Zlín",
+    "edge_id": 13,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 69,
+    "ruian_code": "3713",
+    "district": "Znojmo",
+    "edge_id": 2,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 70,
+    "ruian_code": "3510",
+    "district": "Ústí nad Labem",
+    "edge_id": 14,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 71,
+    "ruian_code": "3611",
+    "district": "Ústí nad Orlicí",
+    "edge_id": 10,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 72,
+    "ruian_code": "9999",
+    "district": "území Hlavního města Prahy",
+    "edge_id": 1,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 73,
+    "ruian_code": "3501",
+    "district": "Česká Lípa",
+    "edge_id": 7,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 74,
+    "ruian_code": "3301",
+    "district": "České Budějovice",
+    "edge_id": 3,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 75,
+    "ruian_code": "3302",
+    "district": "Český Krumlov",
+    "edge_id": 3,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 76,
+    "ruian_code": "3809",
+    "district": "Šumperk",
+    "edge_id": 9,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 77,
+    "ruian_code": "3714",
+    "district": "Žďár nad Sázavou",
+    "edge_id": 5,
+    "lat": null,
+    "lon": null,
+    "point": null
+  },
+  {
+    "id": 78,
+    "ruian_code": "3100",
+    "district": "Hlavní město Praha",
+    "edge_id": 1,
+    "lat": null,
+    "lon": null,
+    "point": null
+  }
+]
