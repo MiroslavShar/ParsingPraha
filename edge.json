@@ -1,4 +1,6 @@
-[
+{
+"name": "edge.json",
+"spisok":[
   {
     "id": 1,
     "ruian_code": "19",
@@ -126,3 +128,4 @@
     "point": null
   }
 ]
+}
