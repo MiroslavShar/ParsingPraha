@@ -27,6 +27,7 @@ public class Main {
         GsonParserDistrict parserDistrict = new GsonParserDistrict();
         RootDistrict koren = parserDistrict.parseDistrict();
         System.out.println(koren);
+        
 
 
 
