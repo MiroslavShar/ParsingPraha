@@ -6,9 +6,9 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        GsonParser parser = new GsonParser();
+        /*GsonParser parser = new GsonParser();
         Root root = parser.parse();
-        //System.out.println("Root" + root.toString());
+        System.out.println("Root" + root.toString());
 
         //GsonParserDistrict parserDistrict = new GsonParserDistrict();
         //RootDistrict koren = parserDistrict.parseDistrict();
@@ -16,7 +16,7 @@ public class Main {
 
         GsonParserCity parserCity = new GsonParserCity();
         RootCity city = parserCity.parse();
-        //System.out.println("goroda " + city.toString());
+        System.out.println("goroda " + city.toString());
 
         //Scanner zapros = new Scanner(System.in);
         //String s = zapros.nextLine();
@@ -24,10 +24,13 @@ public class Main {
        // List er = root.getSpisok();
         //System.out.println(er);
 
+         */
+
         GsonParserDistrict parserDistrict = new GsonParserDistrict();
         RootDistrict koren = parserDistrict.parseDistrict();
-        System.out.println(koren);
-        
+        System.out.println(koren.);
+
+
 
 
 

@@ -2,8 +2,8 @@ import java.util.List;
 
 public class RootCity {
 
-    private String name;
-    private List<SpisokEdge> spisokCity;
+    public String name;
+    public List<SpisokEdge> spisokCity;
 
     public List<SpisokEdge> getSpisokCity() {
         return spisokCity;
